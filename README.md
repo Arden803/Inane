@@ -19,7 +19,8 @@
 ## 🛠️ Usage Guide
 Download the zip file and extract it, run Inane.exe **as admnistrator**.
 If it doesnt work try opening the discord app and re running.
-
+⚠️ You may have to disable your antivirus.
+  
 ## ✨ Features
 -   Discord token info
     -   Nitro
